@@ -1,0 +1,1 @@
+java -jar selenium-server-4.26.0.jar node --hub http://localhost:4444 --selenium-manager true

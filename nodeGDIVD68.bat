@@ -1,0 +1,1 @@
+java -jar selenium-server-4.26.0.jar node --hub http://10.10.21.79:4444 --port 6666 --selenium-manager true
